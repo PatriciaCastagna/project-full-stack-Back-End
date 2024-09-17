@@ -1,0 +1,17 @@
+{
+  "name": "gerenciador-tarefas",
+  "version": "1.0.0",
+  "description": "Aplicação de gerenciamento de tarefas",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./app.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "sequelize": "^6.37.3",
+    "sequelize-cli": "^6.6.2",
+    "sqlite3": "^5.1.7"
+  }
+}

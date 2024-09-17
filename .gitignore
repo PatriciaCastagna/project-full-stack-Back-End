@@ -1,0 +1,27 @@
+# Ignore node_modules folder
+node_modules/
+
+# Ignore environment variables
+.env
+
+# Ignore log files
+*.log
+
+# Ignore config folder
+config/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore build output
+dist/
+build/
+
+# Ignore temporary files
+*.tmp
+*.swp
+*.swo
+
+
+
